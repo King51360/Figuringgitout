@@ -4,6 +4,6 @@ learning git repo and github.
 Author - Prasoon Agrawal
 <br>
 -------------------------------
-#Heading 1
+# Heading 1
 <br>
-##Heading 2
+## Heading 2
